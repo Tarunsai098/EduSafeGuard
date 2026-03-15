@@ -1,4 +1,4 @@
-# EduSafeGuard — Student Academic Risk Monitoring System
+# EduSafeGuard — Student Academic Risk Monitoring and Counselling System
 > A full-stack web platform that helps colleges identify, track, and support at-risk students — before it's too late.
 | **EduSafeguard URL** |https://end2endprojectmongo-2.onrender.com/ |
 > ## 📌 Project Overview
